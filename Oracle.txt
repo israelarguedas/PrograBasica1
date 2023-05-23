@@ -1,0 +1,27 @@
+__---ORACLE---__
+
+Nombre de base de Datos Global:orcl
+
+contraseña:Fidelitas.23
+
+orclpdb
+
+https://localhost:5500/em
+
+Username: system
+Password: Fidelitas.23
+Container Name: dejar en blanco
+
+// SQL/PLUS //
+
+user:hr
+pass:hr
+
+
+/// Oracle SQL Developer /// 
+
+Nombre: orcl
+Usuario: hr
+pass: hr
+Tipo de Conexión: TNS
+Alias de red: ORCL
