@@ -2,7 +2,7 @@
 #10 números divisibles entre este valor. 
 
 valor = 0
-numeroDivisible = 0
+numeroDivisible = 1
 divisores = 0
 valor = int(input("Ingrese el valor: "))
 
