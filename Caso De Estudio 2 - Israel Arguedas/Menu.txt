@@ -1,0 +1,9 @@
+Producto | Precio
+Hamburguesa | 250 colones
+Refrescos | 200 colones
+Ensalada | 350 colones
+Salchichas | 275 colones
+Sopa | 500 colones
+Pastel | 450 colones
+Postre | 350 colones
+Tacos | 2500 colones
